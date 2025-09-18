@@ -11,3 +11,4 @@ config/ftbquests/quests/lang/**/*.snbt_merged
 .curseclient
 /.mixin.out
 /config
+/config
